@@ -16,6 +16,7 @@ print("\_______|,...____;_;_|../_;_|     ")
 print("")
 print(" Welcome to my program.... ")
 
+# What is the difference between a 'float' number and an 'integer' number?
 
 miles = float(input("How many miles you drove: "))
 gallons = float(input("How many gallons consumed: "))
